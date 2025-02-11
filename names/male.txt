@@ -1558,7 +1558,7 @@ Marley
 Marlon
 Maron
 Marri
-Mars (mannsnafn)|Mars
+Mars
 Marsellíus
 Marteinn
 Martel
@@ -1569,7 +1569,7 @@ Marvin
 Marzellíus
 Marzilíus
 Marþór
-Matador (mannsnafn)|Matador
+Matador
 Mateo
 Mateó
 Matheo
@@ -1581,17 +1581,17 @@ Matti
 Mattías
 Max
 Maximus
-Máni (mannanafn)|Máni
+Máni
 Már
-Mári (mannsnafn)|Mári
+Mári
 Márus
 Meinert
 Mekkinó
 Melkíor
 Melkólmur
-Melrakki (mannsnafn)|Melrakki
+Melrakki
 Mensalder
-Merkúr (mannsnafn)|Merkúr
+Merkúr
 Merlin
 Methúsalem
 Metúsalem
@@ -1599,22 +1599,22 @@ Meyvant
 Michael
 Miðrik
 Miguel
-Mikael (mannsnafn)|Mikael
+Mikael
 Mikjáll
 Mikkael
 Mikkel
 Mikki
-Milan (mannsnafn)|Milan
+Milan
 Mildinberg
 Milli
 Milo
 Miró
 Mías
-Mímir (mannanafn)|Mímir
+Mímir
 Míó
-Mír (mannsnafn)|Mír
+Mír
 Mjöllnir
-Mjölnir (nafn)|Mjölnir
+Mjölnir
 Moli
 Mordekaí
 Morgan
@@ -1622,42 +1622,42 @@ Moritz
 Morri
 Mortan
 Morten
-Mosi (mannsnafn)|Mosi
-Móberg (mannsnafn)|Móberg
+Mosi
+Móberg
 Móði
 Mói
-Móri (mannsnafn)|Móri
+Móri
 Mórits
-Móses (nafn)|Móses
-Muggi (mannsnafn)|Muggi
-Muggur (nafn)|Muggur
+Móses
+Muggi
+Muggur
 Mummi
 Muni
-Muninn (mannsnafn)|Muninn
+Muninn
 Múli
 Múr
 Myrkár
 Myrktýr
 Myrkvar
 Myrkvi
-Mýrkjartan (mannsnafn)|Mýrkjartan
-Mörður (nafn)|Mörður
-Narfi (mannsnafn)|Narfi
+Mýrkjartan
+Mörður
+Narfi
 Natan
 Natanael
 Nataníel
 Nathan
 Nathanael
 Nathaníel
-Náttfari (mannsnafn)|Náttfari
+Náttfari
 Nátthrafn
 Náttmörður
 Náttúlfur
 Neisti
 Nenni
 Neó
-Neptúnus (mannsnafn)|Neptúnus
-Neró (mannsnafn)|Neró
+Neptúnus
+Neró
 Nicolas
 Nieljohníus
 Niels
@@ -1672,7 +1672,7 @@ Níeljohníus
 Níels
 Níls
 Njáll
-Njörður (mannsnafn)|Njörður
+Njörður
 Noah
 Nonni
 Norbert
@@ -1684,17 +1684,17 @@ Nói
 Nólan
 Nóni
 Nóri
-Nóvember (mannsnafn)|Nóvember
+Nóvember
 Númi
 Núri
 Nývarð
-Nökkvi (nafn)|Nökkvi
+Nökkvi
 Octavius
 Oddbergur
 Oddbjörn
 Oddfreyr
 Oddgeir
-Oddi (mannsnafn)|Oddi
+Oddi
 Oddkell
 Oddleifur
 Oddmar
@@ -1716,9 +1716,9 @@ Olli
 Omar
 Omel
 Orfeus
-Ormar (mannsnafn)|Ormar
+Ormar
 Ormsvíkingur
-Ormur (mannsnafn)|Ormur
+Ormur
 Orri
 Orvar
 Othar
@@ -1726,10 +1726,10 @@ Otkell
 Otri
 Otti
 Ottó
-Otur (mannsnafn)|Otur
+Otur
 Óbi
-Óðinn (mannsnafn)|Óðinn
-Óður (mannsnafn)|Óður
+Óðinn
+Óður
 Ófeigur
 Ói
 Ólaf
@@ -1739,10 +1739,10 @@ Otur (mannsnafn)|Otur
 Ólíver
 Ómar
 Ómi
-Ónar (mannsnafn)|Ónar
+Ónar
 Ónarr
 Óri
-Óríon (mannsnafn)|Óríon
+Óríon
 Órækja
 Óskar
 Ósvald
@@ -1757,9 +1757,9 @@ Patrek
 Patrekur
 Patrick
 Patrik
-Patti (mannsnafn)|Patti
+Patti
 Páll
-Pálmar (mannsnafn)|Pálmar
+Pálmar
 Pálmi
 Pedró
 Per
@@ -1768,13 +1768,13 @@ Petter
 Pétur
 Pírati
 Pjetur
-Príor (mannsnafn)|Príor
-Rafael (mannsnafn)|Rafael
+Príor
+Rafael
 Rafn
 Rafnar
 Rafnkell
 Ragnar
-Ragúel (mannsnafn)|Ragúel
+Ragúel
 Raknar
 Ram
 Ramses
@@ -1784,7 +1784,7 @@ Rasmus
 Ray
 Ráðgeir
 Ráðvarður
-Refur (mannsnafn)|Refur
+Refur
 Regin
 Reginbaldur
 Reginn
@@ -1804,8 +1804,8 @@ Reymar
 Reynald
 Reynar
 Reynarð
-Reynir (mannsnafn)|Reynir
-Reyr (mannsnafn)|Reyr
+Reynir
+Reyr
 Richard
 Rikharð
 Rikharður
@@ -1815,7 +1815,7 @@ Ríkarður
 Ríkharð
 Ríkharður
 Ríó
-Robert (mannsnafn)|Robert
+Robert
 Rolf
 Ronald
 Rongvuð
@@ -1843,40 +1843,40 @@ Rúben
 Rúdólf
 Rúnar
 Rúni
-Rúrik (mannsnafn)|Rúrik
+Rúrik
 Rútur
-Röðull (mannsnafn)|Röðull
+Röðull
 Röggi
 Rögnvald
 Rögnvaldur
 Rögnvar
 Rökkvi
 Röskvi
-Safír (mannsnafn)|Safír
+Safír
 Sakarías
 Salmann
 Salmar
 Salómon
-Salvador (mannsnafn)|Salvador
+Salvador
 Salvadór
 Salvar
 Sammi
 Sammy
-Samson (mannsnafn)|Samson
+Samson
 Samúel
 Sandel
 Sandri
-Sandur (nafn)|Sandur
-Santos (mannsnafn)|Santos
+Sandur
+Santos
 Sasha
 Sasi
 Saxi
 Scott
 Sebastian
 Sebastían
-Seifur (mannsnafn)|Seifur
+Seifur
 Seimur
-Sesar (mannsnafn)|Sesar
+Sesar
 Sesil
 Sigarr
 Sigbergur
@@ -1944,7 +1944,7 @@ Sigursveinn
 Sigurvaldi
 Sigurvin
 Sigurþór
-Sigurörn (mannsnafn)|Sigurörn
+Sigurörn
 Sigvaldi
 Sigvard
 Sigvarður
@@ -1962,21 +1962,21 @@ Skarphéðinn
 Skefill
 Skeggi
 Skellir
-Skíði (mannsnafn)|Skíði
-Skírnir (mannsnafn)|Skírnir
+Skíði
+Skírnir
 Skjöldur
 Skorri
 Skrýmir
 Skröggur
 Skuggi
 Skúli
-Skúmur (mannsnafn)|Skúmur
-Skúta (nafn)|Skúta
+Skúmur
+Skúta
 Skær
 Skæringur
-Smári (mannsnafn)|Smári
+Smári
 Smiður
-Smyrill (mannsnafn)|Smyrill
+Smyrill
 Snjóki
 Snjólaugur
 Snjólfur
@@ -1985,7 +1985,7 @@ Snæbjartur
 Snæbjörn
 Snæhólm
 Snælaugur
-Snær (nafn)|Snær
+Snær
 Snæringur
 Snævar
 Snævarr
@@ -1999,37 +1999,37 @@ Sotti
 Sófónías
 Sófus
 Sófús
-Sókrates (mannsnafn)|Sókrates
+Sókrates
 Sólar
 Sólarr
 Sólberg
 Sólbergur
 Sólbjartur
-Sólbjörn (mannsnafn)|Sólbjörn
+Sólbjörn
 Sólhrafn
 Sólimann
 Sólmar
 Sólmáni
 Sólmundur
-Sólmyrkvi (mannsnafn)|Sólmyrkvi
-Sólon (nafn)|Sólon
+Sólmyrkvi
+Sólon
 Sólsteinn
 Sólúlfur
 Sólver
 Sólvin
-Spartakus (mannsnafn)|Spartakus
+Spartakus
 Sporði
-Spói (mannsnafn)|Spói
+Spói
 Sprettur
-Stanley (nafn)|Stanley
-Stapi (mannsnafn)|Stapi
-Stari (mannsnafn)|Stari
+Stanley
+Stapi
+Stari
 Starkaður
-Starri (mannsnafn)|Starri
-Steðji (mannsnafn)|Steðji
+Starri
+Steðji
 Stefan
 Stefán
-Stefnir (mannsnafn)|Stefnir
+Stefnir
 Steinar
 Steinarr
 Steinberg
@@ -2044,16 +2044,16 @@ Steinkell
 Steinmann
 Steinmar
 Steinmóður
-Steinn (mannsnafn)|Steinn
+Steinn
 Steinólfur
 Steinröður
 Steinvarður
 Steinþór
 Stirnir
 Stígur
-Stormur (mannsnafn)|Stormur
+Stormur
 Stórólfur
-Straumur (mannsnafn)|Straumur
+Straumur
 Sturla
 Sturlaugur
 Sturri
@@ -2065,7 +2065,7 @@ Styrr
 Sumarliði
 Súddi
 Svafar
-Svali (mannanafn)|Svali
+Svali
 Svalur
 Svan
 Svanberg
@@ -2076,9 +2076,9 @@ Svanhólm
 Svani
 Svanlaugur
 Svanmundur
-Svanur (nafn)|Svanur
+Svanur
 Svanþór
-Svarthöfði (mannsnafn)|Svarthöfði
+Svarthöfði
 Svavar
 Sváfnir
 Sveinar
@@ -2088,7 +2088,7 @@ Sveinbjörn
 Sveinjón
 Sveinlaugur
 Sveinmar
-Sveinn (nafn)|Sveinn
+Sveinn
 Sveinungi
 Sveinþór
 Svend
@@ -2121,7 +2121,7 @@ Sören
 Sörli
 Tandri
 Tangi
-Tarfur (mannsnafn)|Tarfur
+Tarfur
 Tarón
 Teitur
 Teó
@@ -2139,15 +2139,15 @@ Thór
 Tindar
 Tindri
 Tindur
-Tinni (mannsnafn)|Tinni
-Tíberíus (mannsnafn)|Tíberíus
+Tinni
+Tíberíus
 Tíbor
-Tími (mannsnafn)|Tími
+Tími
 Tímon
 Tímoteus
 Tímóteus
 Tístran
-Tjaldur (mannsnafn)|Tjaldur
+Tjaldur
 Tjörfi
 Tjörvi
 Tobbi
@@ -2155,7 +2155,7 @@ Tobías
 Toddi
 Todor
 Toggi
-Tolli (mannsnafn)|Tolli
+Tolli
 Tonni
 Torfi
 Tóbías
@@ -2171,14 +2171,14 @@ Trúmann
 Tryggvi
 Tumas
 Tumi
-Tyrfingur (mannsnafn)|Tyrfingur
-Týr (mannsnafn)|Týr
+Tyrfingur
+Týr
 Týri
 Ubbi
-Uggi (mannsnafn)|Uggi
-Ugluspegill (mannsnafn)|Ugluspegill
+Uggi
+Ugluspegill
 Ullr
-Ullur (mannsnafn)|Ullur
+Ullur
 Ulrich
 Uni
 Unnar
@@ -2189,16 +2189,16 @@ Unnþór
 Urðar
 Uxi
 Úddi
-Úlfar (mannsnafn)|Úlfar
+Úlfar
 Úlfgeir
 Úlfgrímur
 Úlfhéðinn
 Úlfkell
-Úlfljótur (mannsnafn)|Úlfljótur
+Úlfljótur
 Úlftýr
-Úlfur (mannsnafn)|Úlfur
+Úlfur
 Úlrik
-Úranus (mannsnafn)|Úranus
+Úranus
 Vagn
 Vakur
 Valberg
@@ -2207,7 +2207,7 @@ Valbjörn
 Valbrandur
 Valdemar
 Valdi
-Valdimar (nafn)|Valdimar
+Valdimar
 Valdór
 Valent
 Valentín
@@ -2222,25 +2222,25 @@ Valmundur
 Valsteinn
 Valter
 Valtýr
-Valur (mannsnafn)|Valur
+Valur
 Valves
 Valþór
 Varði
 Varmar
-Varmi (mannsnafn)|Varmi
+Varmi
 Vatnar
-Váli (mannsnafn)|Váli
+Váli
 Vápni
 Veigar
 Veigur
-Ver (mannsnafn)|Ver
+Ver
 Vermundur
 Vernharð
 Vernharður
-Veróna (mannsnafn)|Veróna
+Veróna
 Vestar
 Vestmar
-Vetur (mannsnafn)|Vetur
+Vetur
 Veturliði
 Vébjörn
 Végeir
@@ -2256,7 +2256,7 @@ Viggó
 Vignir
 Vigri
 Vigtýr
-Vigur (mannsnafn)|Vigur
+Vigur
 Vikar
 Viktor
 Vilberg
@@ -2269,7 +2269,7 @@ Vilfreð
 Vilgeir
 Vilhelm
 Vilhjálmur
-Vili (mannsnafn)|Vili
+Vili
 Viljar
 Vilji
 Villi
@@ -2279,21 +2279,21 @@ Vilmenhart
 Vilmundur
 Vin
 Vincent
-Vindar (mannsnafn)|Vindar
+Vindar
 Vinjar
 Virgil
-Virgill (mannsnafn)|Virgill
-Víðar (mannsnafn)|Víðar
-Víðir (mannsnafn)|Víðir
-Vífill (mannsnafn)|Vífill
+Virgill
+Víðar
+Víðir
+Vífill
 Vígberg
 Víglundur
 Vígmar
 Vígmundur
 Vígsteinn
 Vígþór
-Víkingur (mannsnafn)|Víkingur
-Vogur (mannsnafn)|Vogur
+Víkingur
+Vogur
 Vopni
 Vorm
 Vöggur
@@ -2318,24 +2318,24 @@ Yngvar
 Yngvi
 Yrkill
 Yrkir
-Ýmir (nafn)|Ýmir
+Ýmir
 Ýrar
 Zachary
 Zakaría
 Zakarías
-Zar (mannsnafn)|Zar
+Zar
 Zion
 Zophanías
 Zophonías
 Zóphanías
 Zóphonías
-Þangbrandur (mannsnafn)|Þangbrandur
+Þangbrandur
 Þengill
 Þeódór
-Þeyr (mannsnafn)|Þeyr
+Þeyr
 Þiðrandi
 Þiðrik
-Þinur (mannsnafn)|Þinur
+Þinur
 Þjálfi
 Þjóðann
 Þjóðar
@@ -2343,7 +2343,7 @@ Zóphonías
 Þjóðgeir
 Þjóðleifur
 Þjóðmar
-Þjóðólfur (nafn)|Þjóðólfur
+Þjóðólfur
 Þjóðrekur
 Þjóðvarður
 Þjóstar
@@ -2367,14 +2367,14 @@ Zóphonías
 Þorleifur
 Þorleikur
 Þormar
-Þormóður (mannsnafn)|Þormóður
+Þormóður
 Þormundur
-Þorri (mannsnafn)|Þorri
+Þorri
 Þorsteinn
 Þorvaldur
 Þorvar
 Þorvarður
-Þór (mannsnafn)|Þór
+Þór
 Þórar
 Þórarinn
 Þórberg
@@ -2404,16 +2404,16 @@ Zóphonías
 Þrastar
 Þráinn
 Þrándur
-Þróttur (mannsnafn)|Þróttur
+Þróttur
 Þrúðmar
 Þrútur
 Þrymir
 Þrymur
-Þröstur (mannsnafn)|Þröstur
+Þröstur
 Þyrill
-Þyrnir (mannsnafn)|Þyrnir
-Ægir (mannsnafn)|Ægir
-Æsir (nafn)|Æsir
+Þyrnir
+Ægir
+Æsir
 Ævar
 Ævarr
 Ögmundur
@@ -2425,7 +2425,7 @@ Zóphonías
 Önundur
 Örlaugur
 Örlygur
-Örn (mannsnafn)|Örn
+Örn
 Örnólfur
 Örvar
 Össur
