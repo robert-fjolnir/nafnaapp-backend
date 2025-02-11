@@ -1,7 +1,7 @@
 Aagot
 Aaliyah
-Abba (nafn)|Abba
-Abel (mannsnafn)|Abel
+Abba
+Abel
 Abela
 Abelína
 Abigael
@@ -13,7 +13,7 @@ Addlaug
 Addú
 Addý
 Adela
-Adele (mannsnafn)|Adele
+Adele
 Adelía
 Adolfína
 Adriana
@@ -40,7 +40,7 @@ Agla
 Agna
 Agnborg
 Agnea
-Agnes (mannsnafn)|Agnes
+Agnes
 Agneta
 Agney
 Agok
@@ -51,15 +51,15 @@ Akurrós
 Alaía
 Alanta
 Alba
-Alberta (mannsnafn)|Alberta
+Alberta
 Albertina
 Albertína
 Albína
 Albjört
-Alda (mannsnafn)|Alda
+Alda
 Aldarrós
 Aldey
-Aldinborg (nafn)|Aldinborg
+Aldinborg
 Aldinía
 Aldína
 Aldís
@@ -71,13 +71,13 @@ Aletta
 Alex
 Alexa
 Alexandra
-Alexandría (mannsnafn)|Alexandría
+Alexandría
 Alexandrína
 Alexis
 Alexía
 Alexína
 Alexstrasa
-Alfa (mannsnafn)|Alfa
+Alfa
 Alfífa
 Alfoldína
 Alfreðsína
@@ -102,7 +102,7 @@ Alleifa
 Allý
 Alma
 Alpa
-Alparós (mannsnafn)|Alparós
+Alparós
 Alríður
 Alrún
 Althea
@@ -125,7 +125,7 @@ Ana
 Anais
 Analía
 Anastasia
-Anastasía (mannsnafn)|Anastasía
+Anastasía
 Andra
 Andrá
 Andrea
@@ -168,7 +168,7 @@ Anný
 Antonetta
 Antonía
 Appolína
-Apríl (mannsnafn)|Apríl
+Apríl
 Ara
 Arabella
 Araminta
@@ -192,9 +192,9 @@ Arína
 Arís
 Arja
 Arkíta
-Armenía (mannsnafn)|Armenía
+Armenía
 Arna
-Arnbjörg (mannsnafn)|Arnbjörg
+Arnbjörg
 Arnborg
 Arndís
 Arnea
@@ -223,12 +223,12 @@ Arntinna
 Arnþóra
 Arnþrúður
 Aronía
-Artemis (mannsnafn)|Artemis
+Artemis
 Asía
 Asírí
 Askalín
-Askja (mannsnafn)|Askja
-Assa (mannsnafn)|Assa
+Askja
+Assa
 Asta
 Astrid
 Astrónómía
@@ -237,7 +237,7 @@ Atena
 Atfriður
 Athena
 Atla
-Atlanta (mannsnafn)|Atlanta
+Atlanta
 Auðbjörg
 Auðbjört
 Auðdís
@@ -246,7 +246,7 @@ Auðlín
 Auðna
 Auðný
 Auðrún
-Auður (mannsnafn)|Auður
+Auður
 Aurora
 Ava
 Avantí
@@ -258,7 +258,7 @@ Axelía
 Axelína
 Axelma
 Ayah
-Aþena (mannsnafn)|Aþena
+Aþena
 Ágota
 Ágústa
 Ágústína
@@ -322,7 +322,7 @@ Aþena (mannsnafn)|Aþena
 Ásný
 Ásrós
 Ásrún
-Ást (mannsnafn)|Ást
+Ást
 Ásta
 Ástbjörg
 Ástbjört
@@ -347,7 +347,7 @@ Aþena (mannsnafn)|Aþena
 Ástþórunn
 Ástþrúður
 Ásvör
-Ásynja (mannsnafn)|Ásynja
+Ásynja
 Ásþrúður
 Baldey
 Baldína
@@ -387,7 +387,7 @@ Bensína
 Benta
 Bentey
 Bentína
-Bera (nafn)|Bera
+Bera
 Berga
 Bergdís
 Bergdögg
@@ -428,8 +428,8 @@ Bertmarí
 Bessa
 Bessí
 Bessý
-Bestla (mannsnafn)|Bestla
-Beta (mannsnafn)|Beta
+Bestla
+Beta
 Betanía
 Betsý
 Betta
@@ -439,14 +439,14 @@ Bettý
 Betúelína
 Betzý
 Bibíana
-Bil (mannanafn)|Bil
+Bil
 Binna
 Binný
 Birgit
 Birgitta
 Birgný
-Birna (nafn)|Birna
-Birta (mannsnafn)|Birta
+Birna
+Birta
 Birtna
 Bíbí
 Bína
@@ -489,7 +489,7 @@ Björgheiður
 Björghildur
 Björgólína
 Björgvina
-Björk (mannsnafn)|Björk
+Björk
 Björndís
 Björney
 Björnfríður
@@ -504,7 +504,7 @@ Blaka
 Blanka
 Blanzeflór
 Bláey
-Bláklukka (mannsnafn)|Bláklukka
+Bláklukka
 Blíða
 Blín
 Blómey
@@ -519,7 +519,7 @@ Bogdís
 Bogey
 Bogga
 Boghildur
-Borg (mannsnafn)|Borg
+Borg
 Borga
 Borgdís
 Borghild
@@ -527,12 +527,12 @@ Borghildur
 Borgný
 Borgrún
 Borgþóra
-Botnía (mannsnafn)|Botnía
+Botnía
 Bóel
 Bóletta
 Bót
 Bóthildur
-Braga (mannsnafn)|Braga
+Braga
 Braghildur
 Branddís
 Brandís
@@ -546,7 +546,7 @@ Brigget
 Brigida
 Brigit
 Brigitta
-Brim (mannsnafn)|Brim
+Brim
 Brimdís
 Brimey
 Brimhildur
@@ -557,7 +557,7 @@ Britta
 Bría
 Bríana
 Bríanna
-Bríet (mannsnafn)|Bríet
+Bríet
 Broteva
 Brúney
 Bryndís
@@ -565,7 +565,7 @@ Brynfríður
 Bryngerður
 Brynheiður
 Brynhildur
-Brynja (nafn)|Brynja
+Brynja
 Brynjólfína
 Brynjólfsína
 Brynný
@@ -574,13 +574,9 @@ Brynylfa
 Bubba
 Buffý
 Burkney
-Bylgja (mannsnafn)|Bylgja
+Bylgja
 Böðvarrún
 Böðvína
-{{div col end}}
-
-== C ==
-{{div col|colwidth=12em}}
 Camilla
 Caritas
 Carla
@@ -591,7 +587,7 @@ Cecilia
 Cecilía
 Ceres
 Charlotta
-Charlotte (mannsnafn)|Charlotte
+Charlotte
 Chloé
 Chrissie
 Christa
@@ -599,7 +595,7 @@ Christel
 Christina
 Christine
 Clara
-Cleopatra (mannsnafn)|Cleopatra
+Cleopatra
 Dadda
 Daða
 Daðey
@@ -650,23 +646,23 @@ Delía
 Dendý
 Denný
 Diana
-Didda (mannsnafn)|Didda
+Didda
 Diðrika
 Dilja
 Diljá
 Dillý
-Dimma (mannsnafn)|Dimma
+Dimma
 Dimmblá
 Dimmey
 Dissý
 Día
-Díana (mannsnafn)|Díana
+Díana
 Díanna
 Dídí
 Díma
 Dína
 Dípa
-Dís (mannsnafn)|Dís
+Dís
 Dísa
 Dísella
 Dodda
@@ -700,10 +696,10 @@ Drótt
 Drysíana
 Dröfn
 Dúa
-Dúfa (nafn)|Dúfa
+Dúfa
 Dúna
 Dúnna
-Dúrra (mannsnafn)|Dúrra
+Dúrra
 Dyljá
 Dynja
 Dýrborg
@@ -715,15 +711,15 @@ Dýrólína
 Dýrunn
 Dýrvin
 Dæja
-Dögg (nafn)|Dögg
-Dögun (mannsnafn)|Dögun
+Dögg
+Dögun
 Ebba
 Ebbertsína
 Ebonney
-Edda (mannsnafn)|Edda
+Edda
 Eddý
 Edel
-Eden (mannsnafn)|Eden
+Eden
 Edil
 Edit
 Edith
@@ -745,7 +741,7 @@ Egidía
 Egilína
 Egillína
 Egilsína
-Egla (mannsnafn)|Egla
+Egla
 Eia
 Eidís
 Eiðbjörg
@@ -753,7 +749,7 @@ Eiðný
 Eiðunn
 Eiðvör
 Eigrét
-Eik (mannsnafn)|Eik
+Eik
 Eileif
 Eileiþía
 Eilíf
@@ -773,7 +769,7 @@ Einína
 Einrós
 Einrún
 Einstínveig
-Eir (mannsnafn)|Eir
+Eir
 Eirdís
 Eirfinna
 Eiríka
@@ -783,12 +779,12 @@ Eirún
 Eiva
 Eivör
 Ektalína
-Elba (mannsnafn)|Elba
+Elba
 Eldbjörg
 Eldborg
 Elddís
-Eldey (mannsnafn)|Eldey
-Eldlilja (mannsnafn)|Eldlilja
+Eldey
+Eldlilja
 Eldmey
 Eldrós
 Eldrún
@@ -796,7 +792,7 @@ Eldþóra
 Elea
 Eleana
 Eleina
-Elektra (nafn)|Elektra
+Elektra
 Elena
 Elená
 Elenborg
@@ -840,7 +836,7 @@ Elínóra
 Elínrós
 Elínveig
 Elírós
-Elís (mannsnafn)|Elís
+Elís
 Elísa
 Elísabet
 Elísabeth
@@ -877,7 +873,7 @@ Elvur
 Elvý
 Elvör
 Emanúela
-Embla (mannsnafn)|Embla
+Embla
 Emelí
 Emelía
 Emelíana
@@ -915,10 +911,10 @@ Enika
 Eníta
 Enja
 Enóla
-Enya (mannsnafn)|Enya
+Enya
 Epifanía
 Eres
-Erica (mannsnafn)|Erica
+Erica
 Erika
 Erin
 Erla
@@ -933,7 +929,7 @@ Ermenga
 Erna
 Erykah
 Esí
-Esja (nafn)|Esja
+Esja
 Eskja
 Esmeralda
 Estel
@@ -944,12 +940,12 @@ Estífa
 Estíva
 Ethel
 Etilríður
-Etna (mannsnafn)|Etna
+Etna
 Eufemia
 Eufemía
 Eugenia
 Eulalía
-Eva (mannsnafn)|Eva
+Eva
 Evelía
 Evelyn
 Evey
@@ -960,7 +956,7 @@ Evin
 Evíta
 Evlalía
 Evsebía
-Ey (mannsnafn)|Ey
+Ey
 Eybjörg
 Eybjört
 Eyborg
@@ -972,7 +968,7 @@ Eygerður
 Eygló
 Eygrét
 Eyhildur
-Eyja (mannsnafn)|Eyja
+Eyja
 Eyjalín
 Eyjólfa
 Eyjólfína
@@ -982,7 +978,7 @@ Eyleif
 Eyleifína
 Eylín
 Eylína
-Eyrarrós (mannsnafn)|Eyrarrós
+Eyrarrós
 Eyríður
 Eyrós
 Eyrún
@@ -1024,14 +1020,14 @@ Fía
 Fíasól
 Fídes
 Fídís
-Fífa (mannsnafn)|Fífa
+Fífa
 Fíóna
 Fjalldís
 Fjalley
-Fjara (mannsnafn)|Fjara
+Fjara
 Fjóla
 Flosrún
-Flóra (nafn)|Flóra
+Flóra
 Flóredína
 Flórentía
 Flórentína
@@ -1044,7 +1040,7 @@ Franzisca
 Franziska
 Frán
 Fregn
-Freya (mannsnafn)|Freya
+Freya
 Freydís
 Freygerður
 Freyja
@@ -1076,7 +1072,7 @@ Friðsemd
 Friðveig
 Friðvör
 Friðþóra
-Frigg (mannsnafn)|Frigg
+Frigg
 Fríða
 Fríður
 Frímannía
@@ -1085,7 +1081,7 @@ Fróðný
 Frugit
 Frumrósa
 Frúgit
-Fura (mannsnafn)|Fura
+Fura
 Fævý
 Föld
 Fönn
@@ -1093,13 +1089,13 @@ Gabriela
 Gabríela
 Gabríella
 Gabríerla
-Gaja (mannsnafn)|Gaja
+Gaja
 Ganna
 Garbó
 Gauja
 Gauthildur
 Gára
-Gefjun (mannsnafn)|Gefjun
+Gefjun
 Gefn
 Geira
 Geirbjörg
@@ -1113,7 +1109,7 @@ Geirný
 Geirríður
 Geirrún
 Geirþrúður
-Georgía (mannsnafn)|Georgía
+Georgía
 Gerða
 Gerður
 Gestheiður
@@ -1136,7 +1132,7 @@ Gíslrún
 Gíslunn
 Gíta
 Gjaflaug
-Gjóska (mannsnafn)|Gjóska
+Gjóska
 Gjöll
 Gleymmérei
 Gloría
@@ -1145,28 +1141,28 @@ Glóa
 Glóbjört
 Glódís
 Glóð
-Glóey (nafn)|Glóey
-Glytta (mannsnafn)|Glytta
-Gná (mannsnafn)|Gná
+Glóey
+Glytta
+Gná
 Gnádís
 Gola
-Góa (mannsnafn)|Góa
+Góa
 Gógó
 Gratíana
-Grein (mannsnafn)|Grein
+Grein
 Gret
 Greta
 Grethe
 Grélöð
 Grét
 Gréta
-Gríma (mannsnafn)|Gríma
+Gríma
 Grímey
 Grímheiður
 Grímhildur
-Gró (mannsnafn)|Gró
+Gró
 Gróa
-Grótta (mannsnafn)|Grótta
+Grótta
 Guðbjörg
 Guðbjört
 Guðborg
@@ -1188,7 +1184,7 @@ Guðsteina
 Guðveig
 Guja
 Gulla
-Gullbrá (mannsnafn)|Gullbrá
+Gullbrá
 Gullveig
 Gullý
 Gumma
@@ -1219,7 +1215,7 @@ Gurrý
 Gúa
 Gúrí
 Gyða
-Gyðja (mannsnafn)|Gyðja
+Gyðja
 Gyðríður
 Gytta
 Gæfa
@@ -1261,10 +1257,10 @@ Hanný
 Hansa
 Hansína
 Harley
-Harpa (mannsnafn)|Harpa
+Harpa
 Hauður
 Hákonía
-Heba (mannsnafn)|Heba
+Heba
 Hebba
 Hedda
 Hedí
@@ -1277,25 +1273,25 @@ Heiðbjört
 Heiðbrá
 Heiðdís
 Heiðlaug
-Heiðlóa (nafn)|Heiðlóa
+Heiðlóa
 Heiðný
 Heiðrós
 Heiðrún
 Heiður
 Heiðveig
-Hekla (mannsnafn)|Hekla
+Hekla
 Helen
-Helena (mannsnafn)|Helena
+Helena
 Helga
 Helgey
-Hella (mannsnafn)|Hella
+Hella
 Helma
 Hendrikka
 Henný
 Henrietta
 Henrika
 Henríetta
-Hera (mannsnafn)|Hera
+Hera
 Herbjörg
 Herbjört
 Herborg
@@ -1344,7 +1340,7 @@ Hlaðgerður
 Hleiður
 Hlédís
 Hlíf
-Hlín (mannsnafn)|Hlín
+Hlín
 Hlýja
 Hlökk
 Hofdís
@@ -1367,10 +1363,10 @@ Hrafnkatla
 Hrafnlaug
 Hrafnrún
 Hrafnsunna
-Hrafntinna (mannsnafn)|Hrafntinna
+Hrafntinna
 Hrafnynja
 Hraundís
-Hrefna (mannanafn)|Hrefna
+Hrefna
 Hreindís
 Hróðný
 Hrólfdís
@@ -1385,23 +1381,23 @@ Hugljúf
 Hugrós
 Hugrún
 Huld
-Hulda (mannsnafn)|Hulda
+Hulda
 Huldís
 Huldrún
 Húna
 Húnbjörg
 Húndís
 Húngerður
-Hvönn (mannsnafn)|Hvönn
+Hvönn
 Hyrrokkin
 Hædý
 Hödd
 Högna
 Hörn
-Ida (nafn)|Ida
+Ida
 Idda
-Iða (mannsnafn)|Iða
-Iðunn (nafn)|Iðunn
+Iða
+Iðunn
 Ilmur
 Ilse
 Imba
@@ -1410,15 +1406,15 @@ Immý
 Ina
 Inda
 India
-Indiana (mannsnafn)|Indiana
+Indiana
 Indika
-Indí (mannsnafn)|Indí
+Indí
 Indía
 Indíana
 Indíra
 Indra
 Inga
-Ingaló (mannsnafn)|Ingaló
+Ingaló
 Ingdís
 Ingeborg
 Inger
@@ -1444,7 +1440,7 @@ Ingrid
 Ingrún
 Ingunn
 Ingveldur
-Inna (mannsnafn)|Inna
+Inna
 Irena
 Irene
 Irja
@@ -1471,7 +1467,7 @@ Ivý
 Ísabel
 Ísabella
 Ísadóra
-Ísafold (mannsnafn)|Ísafold
+Ísafold
 Ísalind
 Ísbjörg
 Ísbjört
@@ -1535,7 +1531,7 @@ Jóda
 Jódís
 Jóey
 Jófríður
-Jóga (mannsnafn)|Jóga
+Jóga
 Jóhanna
 Jóhanndína
 Jólín
@@ -1554,7 +1550,7 @@ Jónheiður
 Jónhildur
 Jóninna
 Jóní
-Jónía (mannsnafn)|Jónía
+Jónía
 Jónída
 Jónína
 Jónný
@@ -1570,7 +1566,7 @@ Judith
 Julia
 Júdea
 Júdit
-Júlí (mannsnafn)|Júlí
+Júlí
 Júlía
 Júlíana
 Júlíanna
@@ -1578,10 +1574,10 @@ Júlíetta
 Júlíhuld
 Júlína
 Júlírós
-Júní (mannsnafn)|Júní
+Júní
 Júnía
 Júníana
-Jökla (mannsnafn)|Jökla
+Jökla
 Jökulrós
 Jörgína
 Kaðlín
@@ -1595,7 +1591,7 @@ Kamilla
 Kamí
 Kamma
 Kapitola
-Kapítóla (mannsnafn)|Kapítóla
+Kapítóla
 Kara
 Karen
 Karin
@@ -1609,7 +1605,7 @@ Karlinna
 Karlína
 Karlotta
 Karlynja
-Karma (mannsnafn)|Karma
+Karma
 Karmen
 Karna
 Karol
@@ -1618,8 +1614,8 @@ Karó
 Karólín
 Karólína
 Karún
-Kassandra (mannsnafn)|Kassandra
-Kat (mannsnafn)|Kat
+Kassandra
+Kat
 Kata
 Katarína
 Kateri
@@ -1627,7 +1623,7 @@ Katerína
 Katharina
 Kathinka
 Katinka
-Katla (mannsnafn)|Katla
+Katla
 Katra
 Katrín
 Katrína
@@ -1637,14 +1633,14 @@ Kára
 Kárí
 Kellý
 Kendra
-Kenya (mannsnafn)|Kenya
+Kenya
 Ketilbjörg
 Ketilfríður
 Ketilríður
 Kiddý
 Kikka
-Kilja (mannsnafn)|Kilja
-Kira (mannsnafn)|Kira
+Kilja
+Kira
 Kirsten
 Kirstín
 Kittý
@@ -1655,8 +1651,8 @@ Klara
 Klaría
 Kládía
 Klementína
-Kleópatra (mannsnafn)|Kleópatra
-Klöpp (mannsnafn)|Klöpp
+Kleópatra
+Klöpp
 Kolbjörg
 Kolbrá
 Kolbrún
@@ -1665,8 +1661,8 @@ Kolfinna
 Kolfreyja
 Kolgríma
 Kolka
-Kolþerna (mannsnafn)|Kolþerna
-Kona (mannsnafn)|Kona
+Kolþerna
+Kona
 Konkordía
 Konný
 Konstantína
@@ -1675,7 +1671,7 @@ Kormlöð
 Kornelía
 Kóbra
 Kókó
-Kráka (mannsnafn)|Kráka
+Kráka
 Krista
 Kristbjörg
 Kristborg
@@ -1706,9 +1702,9 @@ Kristveig
 Kristvina
 Kristý
 Kristþóra
-Kría (mannsnafn)|Kría
+Kría
 Krumma
-Kvika (mannsnafn)|Kvika
+Kvika
 Kæja
 Laila
 Laíla
@@ -1716,13 +1712,13 @@ Lalía
 Lalíla
 Lana
 Lara
-Laufey (mannsnafn)|Laufey
+Laufey
 Laufheiður
 Laufhildur
 Lauga
 Laugey
 Laugheiður
-Lán (mannsnafn)|Lán
+Lán
 Lára
 Lárensína
 Lárentína
@@ -1744,8 +1740,8 @@ Leya
 Leyla
 Leynd
 Liisa
-Lilith (mannsnafn)|Lilith
-Lilja (mannsnafn)|Lilja
+Lilith
+Lilja
 Liljan
 Liljá
 Liljurós
@@ -1767,17 +1763,17 @@ Lingný
 Linnea
 Lisbeth
 Lissie
-List (mannsnafn)|List
+List
 Listalín
 Liv
 Líana
 Líba
-Líf (mannsnafn)|Líf
+Líf
 Lífdís
 Lílú
 Lílý
-Lín (mannsnafn)|Lín
-Lína (mannsnafn)|Lína
+Lín
+Lína
 Línbjörg
 Líndís
 Líneik
@@ -1795,18 +1791,18 @@ Ljósbjörg
 Ljósbrá
 Ljósunn
 Ljótunn
-Lofn (mannsnafn)|Lofn
+Lofn
 Lofthildur
 Loftveig
 Logey
-Lokbrá (mannsnafn)|Lokbrá
+Lokbrá
 Lotta
 Louisa
 Louise
 Lousie
 Lovísa
-Lóa (mannsnafn)|Lóa
-Lóla (mannsnafn)|Lóla
+Lóa
+Lóla
 Lóley
 Lóreley
 Lucia
@@ -1824,7 +1820,7 @@ Lydia
 Lydía
 Lynd
 Lyngheiður
-Lýdía (nafn)|Lýdía
+Lýdía
 Lýra
 Læla
 Maddý
@@ -1869,10 +1865,10 @@ Manúela
 Manúella
 Mara
 Mardís
-Marel (mannsnafn)|Marel
+Marel
 Marela
 Marella
-Maren (mannsnafn)|Maren
+Maren
 Marey
 Marfríður
 Margaret
@@ -1884,7 +1880,7 @@ Margrjet
 Margunnur
 Marheiður
 Maria
-Marianne (mannsnafn)|Marianne
+Marianne
 Marie
 Marikó
 Marinella
@@ -1892,7 +1888,7 @@ Marion
 Mariska
 Marit
 Marí
-María (mannsnafn)|María
+María
 Maríabet
 Maríam
 Marían
@@ -1908,7 +1904,7 @@ Maríon
 Marísa
 Marísól
 Marít
-Maríuerla (nafn)|Maríuerla
+Maríuerla
 Marja
 Markrún
 Marla
@@ -1943,7 +1939,7 @@ Mattína
 Mattý
 Maxima
 May
-Maya (mannsnafn)|Maya
+Maya
 Mábil
 Málfríður
 Málhildur
@@ -1960,7 +1956,7 @@ Melinda
 Melissa
 Melía
 Melkorka
-Melódía (mannsnafn)|Melódía
+Melódía
 Melrós
 Menja
 Merkel
@@ -1976,7 +1972,7 @@ Milda
 Mildríður
 Milla
 Millý
-Minerva (mannsnafn)|Minerva
+Minerva
 Minna
 Minney
 Minný
@@ -1986,9 +1982,9 @@ Mirjam
 Mirra
 Mist
 Mía
-Míla (mannsnafn)|Míla
-Mímósa (mannsnafn)|Mímósa
-Mínerva (nafn)|Mínerva
+Míla
+Mímósa
+Mínerva
 Míra
 Míranda
 Mírey
@@ -1996,7 +1992,7 @@ Míríel
 Mítra
 Mjaðveig
 Mjalldís
-Mjallhvít (mannsnafn)|Mjallhvít
+Mjallhvít
 Mjöll
 Mona
 Monika
@@ -2017,22 +2013,22 @@ Mundhildur
 Mundína
 Mylla
 Myríam
-Myrk (mannsnafn)|Myrk
+Myrk
 Myrkey
 Myrkrún
 Myrkva
-Myrra (mannsnafn)|Myrra
+Myrra
 Mýr
 Mýra
 Mýrún
 Mæja
-Mörk (mannsnafn)|Mörk
+Mörk
 Nadia
 Nadía
 Nadja
 Nala
 Nana
-Nancy (mannsnafn)|Nancy
+Nancy
 Naní
 Nanna
 Nanný
@@ -2053,7 +2049,7 @@ Náttey
 Náttrós
 Náttrún
 Náttsól
-Náttúra (mannsnafn)|Náttúra
+Náttúra
 Nella
 Nellý
 Nenna
@@ -2063,20 +2059,20 @@ Nift
 Nikíta
 Nikoletta
 Nikólína
-Ninja (mannsnafn)|Ninja
+Ninja
 Ninna
 Nína
 Níní
-Njála (mannsnafn)|Njála
-Njóla (nafn)|Njóla
+Njála
+Njóla
 Norma
 Nóa
 Nóla
 Nóra
-Nótt (mannsnafn)|Nótt
+Nótt
 Núra
 Nýbjörg
-Nýdönsk (mannsnafn)|Nýdönsk
+Nýdönsk
 Obba
 Octavia
 Odda
@@ -2098,8 +2094,8 @@ Olga
 Olivia
 Olivía
 Ollý
-Ora (mannsnafn)|Ora
-Orka (mannsnafn)|Orka
+Ora
+Orka
 Ormheiður
 Ormhildur
 Otkatla
@@ -2118,11 +2114,11 @@ Otta
 Ósk
 Ósklín
 Ótta
-Palma (mannsnafn)|Palma
+Palma
 Pamela
 Panpan
 Paradís
-París (mannsnafn)|París
+París
 Patricia
 Patrisía
 Pála
@@ -2138,7 +2134,7 @@ Pálma
 Pálmey
 Pálmfríður
 Pálrún
-Perla (mannsnafn)|Perla
+Perla
 Peta
 Petra
 Petrea
@@ -2153,7 +2149,7 @@ Pétrún
 Pía
 Polly
 Pollý
-Pomóna (mannsnafn)|Pomóna
+Pomóna
 Pría
 Rafney
 Rafnhildur
@@ -2175,11 +2171,11 @@ Rannva
 Rannveig
 Rayna
 Ráðhildur
-Rán (mannsnafn)|Rán
+Rán
 Rea
 Rebekka
 Reginbjörg
-Regína (mannsnafn)|Regína
+Regína
 Rei
 Rein
 Renata
@@ -2190,9 +2186,9 @@ Reynheiður
 Reynhildur
 Rikka
 Ripley
-Rita (mannsnafn)|Rita
-Ríkey (mannsnafn)|Ríkey
-Rín (mannsnafn)|Rín
+Rita
+Ríkey
+Rín
 Ríta
 Roj
 Ronja
@@ -2202,9 +2198,9 @@ Rosemarie
 Roxanna
 Róberta
 Róbjörg
-Róm (mannsnafn)|Róm
+Róm
 Róma
-Rós (mannsnafn)|Rós
+Rós
 Rósa
 Rósalind
 Rósalía
@@ -2218,7 +2214,7 @@ Rósfríður
 Róshildur
 Rósinkara
 Rósinkransa
-Róska (mannsnafn)|Róska
+Róska
 Róslaug
 Róslind
 Róslinda
@@ -2237,7 +2233,7 @@ Rúna
 Rúndís
 Rúnel
 Rúnhildur
-Rúrí (mannsnafn)|Rúrí
+Rúrí
 Röfn
 Rögn
 Rökkurdís
@@ -2247,7 +2243,7 @@ Saara
 Sabína
 Sabrína
 Safíra
-Saga (mannsnafn)|Saga
+Saga
 Sakura
 Salbjörg
 Saldís
@@ -2269,11 +2265,11 @@ Santía
 Sara
 Sarah
 Sarína
-Sál (mannsnafn)|Sál
+Sál
 Sefanía
-Selena (mannsnafn)|Selena
+Selena
 Selina
-Selja (mannsnafn)|Selja
+Selja
 Selka
 Selma
 Senía
@@ -2286,7 +2282,7 @@ Sesselía
 Sesselja
 Sessilía
 Siddý
-Sif (mannsnafn)|Sif
+Sif
 Sigdís
 Sigdóra
 Sigfríð
@@ -2294,7 +2290,7 @@ Sigfríður
 Sigga
 Siggerður
 Sigmunda
-Signa (mannsnafn)|Signa
+Signa
 Signhildur
 Signý
 Sigrid
@@ -2336,14 +2332,14 @@ Sigurveig
 Sigurvina
 Sigurþóra
 Sigvalda
-Sigyn (mannsnafn)|Sigyn
+Sigyn
 Sigþóra
 Sigþrúður
 Silfa
 Silfá
-Silfra (mannsnafn)|Silfra
+Silfra
 Silfrún
-Silfur (mannsnafn)|Silfur
+Silfur
 Silja
 Silka
 Silla
@@ -2359,18 +2355,18 @@ Sisa
 Sissa
 Siv
 Sivía
-Sía (mannsnafn)|Sía
+Sía
 Símona
 Símonía
 Sísí
 Síta
 Sjana
-Sjöfn (mannanafn)|Sjöfn
-Skaði (mannsnafn)|Skaði
+Sjöfn
+Skaði
 Skarpheiður
 Skjaldmey
 Skugga
-Skuld (mannsnafn)|Skuld
+Skuld
 Skúa
 Skúla
 Skúlína
@@ -2396,14 +2392,14 @@ Snæsól
 Soffía
 Sofia
 Sofie
-Sofía (mannsnafn)|Sofía
+Sofía
 Solveig
 Sonja
 Sonný
 Sophia
 Sophie
-Sófía (mannsnafn)|Sófía
-Sól (mannsnafn)|Sól
+Sófía
+Sól
 Sóla
 Sólbjörg
 Sólbjört
@@ -2412,8 +2408,8 @@ Sólbrá
 Sólbráð
 Sólbrún
 Sóldís
-Sóldögg (mannsnafn)|Sóldögg
-Sóley (mannsnafn)|Sóley
+Sóldögg
+Sóley
 Sólfríður
 Sólgerður
 Sólheiður
@@ -2424,15 +2420,15 @@ Sóllilja
 Sólný
 Sólrós
 Sólrún
-Sólskríkja (mannsnafn)|Sólskríkja
+Sólskríkja
 Sólveig
 Sólvör
-Sónata (mannsnafn)|Sónata
+Sónata
 Stasía
 Stefana
 Stefanía
 Stefánný
-Steina (nafn)|Steina
+Steina
 Steinbjörg
 Steinborg
 Steindís
@@ -2452,10 +2448,10 @@ Stinne
 Stígheiður
 Stígrún
 Stína
-Stjarna (mannsnafn)|Stjarna
+Stjarna
 Stjarney
 Stormey
-Strympa (mannsnafn)|Strympa
+Strympa
 Styrgerður
 Sumarlín
 Sumarlína
@@ -2467,12 +2463,12 @@ Sunniva
 Sunníva
 Susan
 Susie
-Súla (mannsnafn)|Súla
+Súla
 Súlamít
 Súsan
 Súsanna
 Svafa
-Svala (mannsnafn)|Svala
+Svala
 Svalrún
 Svana
 Svanbjörg
@@ -2530,15 +2526,15 @@ Sævör
 Sölva
 Sölvey
 Sölvína
-Tala (mannsnafn)|Tala
+Tala
 Talitha
-Talía (nafn)|Talía
+Talía
 Tamar
 Tamara
 Tanía
 Tanja
 Tanya
-Tara (mannsnafn)|Tara
+Tara
 Taríel
 Tatiana
 Tatía
@@ -2554,15 +2550,15 @@ Teresía
 Tereza
 Terra
 Thalia
-Thalía (mannsnafn)|Thalía
+Thalía
 Thea
 Thelma
 Theodóra
 Theódóra
 Theresa
-Tildra (mannsnafn)|Tildra
+Tildra
 Tindra
-Tinna (mannsnafn)|Tinna
+Tinna
 Tirsa
 Tía
 Tíalilja
@@ -2574,25 +2570,25 @@ Torfey
 Torfheiður
 Torfhildur
 Tóbý
-Tófa (mannsnafn)|Tófa
+Tófa
 Tóka
 Tómasína
 Tóta
 Tótla
 Trausta
 Tristana
-Trú (mannsnafn)|Trú
+Trú
 Tryggva
 Tryggvína
 Týra
-Ugla (mannsnafn)|Ugla
+Ugla
 Una
-Undína (mannsnafn)|Undína
+Undína
 Unna
 Unnbjörg
 Unndís
 Unnur
-Urður (mannsnafn)|Urður
+Urður
 Ursula
 Úa
 Úlfa
@@ -2610,7 +2606,7 @@ Ursula
 Vagna
 Vagnbjörg
 Vagnfríður
-Vaka (mannsnafn)|Vaka
+Vaka
 Vala
 Valbjörg
 Valbjörk
@@ -2629,7 +2625,7 @@ Valgý
 Valhildur
 Valía
 Valka
-Valkyrja (mannsnafn)|Valkyrja
+Valkyrja
 Vallý
 Valný
 Valrós
@@ -2641,17 +2637,17 @@ Vana
 Vanadís
 Vanda
 Vanja
-Varða (mannsnafn)|Varða
+Varða
 Vasilia
-Vár (mannsnafn)|Vár
+Vár
 Vega
 Veig
 Veiga
 Venedía
 Venný
-Venus (mannsnafn)|Venus
-Vera (mannsnafn)|Vera
-Veronica (mannsnafn)|Veronica
+Venus
+Vera
+Veronica
 Veronika
 Verónika
 Veróníka
@@ -2663,10 +2659,10 @@ Végerður
 Vélaug
 Véný
 Vibeka
-Victoria (mannsnafn)|Victoria
+Victoria
 Victoría
-Viðey (mannsnafn)|Viðey
-Viðja (mannsnafn)|Viðja
+Viðey
+Viðja
 Vigdís
 Viglín
 Viglís
@@ -2678,7 +2674,7 @@ Vildís
 Vilfríður
 Vilgerður
 Vilhelmína
-Villa (mannsnafn)|Villa
+Villa
 Villimey
 Vilma
 Vilný
@@ -2686,22 +2682,22 @@ Vinbjörg
 Vinný
 Vinsý
 Viola
-Virginía (mannsnafn)|Virginía
+Virginía
 Vivian
 Víbekka
 Víf
 Vígdögg
 Víggunnur
-Víóla (mannsnafn)|Víóla
+Víóla
 Víóletta
-Vísa (mannsnafn)|Vísa
-Von (mannsnafn)|Von
+Vísa
+Von
 Voney
 Vopna
 Vordís
 Vorsól
 Værð
-Vök (mannsnafn)|Vök
+Vök
 Wanessa
 Wala
 Winter
@@ -2720,7 +2716,7 @@ Yrsa
 Ýja
 Ýlfa
 Ýma
-Ýr (nafn)|Ýr
+Ýr
 Ýrr
 Ýrún
 Zíta
@@ -2728,13 +2724,13 @@ Zoe
 Zophía
 Zulima
 Þalía
-Þeba (mannsnafn)|Þeba
+Þeba
 Þeódís
 Þeódóra
-Þingey (mannsnafn)|Þingey
+Þingey
 Þjóðbjörg
 Þjóðhildur
-Þoka (nafn)|Þoka
+Þoka
 Þollý
 Þorbjörg
 Þorbrá
@@ -2777,10 +2773,10 @@ Zulima
 Þórveig
 Þórvör
 Þrá
-Þruma (mannsnafn)|Þruma
+Þruma
 Þrúða
-Þrúður (mannsnafn)|Þrúður
-Þula (mannsnafn)|Þula
+Þrúður
+Þula
 Þura
 Þurí
 Þuríður
@@ -2789,8 +2785,8 @@ Zulima
 Þyra
 Þyri
 Þyrí
-Þyrnirós (mannsnafn)|Þyrnirós
-Þöll (mannsnafn)|Þöll
+Þyrnirós
+Þöll
 Ægileif
 Æja
 Æsa
@@ -2799,10 +2795,10 @@ Zulima
 Æví
 Ævör
 Ögmunda
-Ögn (mannsnafn)|Ögn
+Ögn
 Ölrún
 Ölveig
 Örbrún
 Örk
-Ösp (mannsnafn)|Ösp
-Öxi (mannsnafn)|Öxi
+Ösp
+Öxi
